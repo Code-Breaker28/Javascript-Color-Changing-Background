@@ -1,10 +1,12 @@
 button{
-    background-color: #555555;
+    background-color: #000000;
     color: #fff;
-    padding: 20px;
-    border-radius: 30px;
+    width: 20%;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
     outline: none;
     font-size: 15px;
     cursor: pointer;
-    margin: 40vh 90vh;
-}
+    margin: 25% 40%;
+    }
